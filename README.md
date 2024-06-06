@@ -1,10 +1,17 @@
 # <div align="center">GoIT - HW 8 - Raport</div>
 
+<style>h2, h3 {border-bottom: 0;}</style>
+<style>.info {color:#999997};</style>
+
 <p align="center">JSON and JavaScript</p>
+
+---
 
 ## <div align="center">Task 1</div>
 
-<p style="color:#999997">Analysis of user.json file (Specifying key: value pair and data type of each value and representing overall JSON file structure)</p>
+<p class="info">Analysis of user.json file (Specifying key: value pair and data type of each value and representing overall JSON file structure)</p>
+
+---
 
 Provided JSON file:
 
