@@ -9,8 +9,10 @@ try {
   JSON.parse(jsonData);
 } catch (error) {
   // Code that will be executed if try part throws an error
-  console.error(error.name);
-  console.error(error.message);
+  console.error(`Error name:
+  ${error.name}`);
+  console.error(`Error message:
+  ${error.message}`);
 }
 
 // Arrow function that shows the code is still executed after an error in try...catch
