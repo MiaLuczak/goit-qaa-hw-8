@@ -1,8 +1,5 @@
 # <div align="center">GoIT - HW 8 - Raport</div>
 
-<style>h2, h3 {border-bottom: 0;}</style>
-<style>.info {color:#999997};</style>
-
 <p align="center">JSON and JavaScript</p>
 
 ---
