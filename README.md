@@ -30,7 +30,7 @@ Creating a JS Object from JSON data string
 
 ![Task 2 JSON.parse() method](./imageFiles/Code%20I%20HW%208%20I%20Task%202%20I.png)
 
-JS Object that was created using the JSON.parse() method corresponds its properties and values with the keys and their values from the JSON string, which can be seen in Node.js Terminal output
+JS Object that was created using the JSON.parse() method corresponds its properties and values, <br> with the _keys_ and their _values_ from the JSON string, which can be seen in Terminal output
 
 [script.js file](./scriptTask2.js)
 
@@ -46,4 +46,4 @@ Using invalid JSON data string:
 `try...catch` Construction tries to execute a code that is in `try` block, if an error is thrown in this block, `catch` part catches the error and handles it. <br>
 This solution benefits, that even if a runtime error occurs, code isn't stopped, which can be seen in Terminal output (Arrow function was still executed besides `JSON.parse()` error occurs)
 
-[scriptTask3.js file](./scriptTask3.js)
+[script.js file](./scriptTask3.js)
